@@ -1,0 +1,10 @@
+﻿  ParticleManager.cu
+C:\Users\SSSS\source\repos\CudaParticleMotionLaw\CudaParticleMotionLaw\ParticleManager.cu(99,95): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\SSSS\source\repos\CudaParticleMotionLaw\x64\Release\CudaParticleMotionLaw.lib and object C:\Users\SSSS\source\repos\CudaParticleMotionLaw\x64\Release\CudaParticleMotionLaw.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 319 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CudaParticleMotionLaw.vcxproj -> C:\Users\SSSS\source\repos\CudaParticleMotionLaw\x64\Release\CudaParticleMotionLaw.exe
